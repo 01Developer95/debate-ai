@@ -4,6 +4,7 @@
 > An interactive battle of logic where users debate against Google's Gemini 3, receiving real-time scores and Socratic feedback.
 
 ![DebateAI Header](header.png)
+
 *(Cyberpunk Terminal Interface Initiated)*
 
 ## 💡 Inspiration
